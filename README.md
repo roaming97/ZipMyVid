@@ -4,6 +4,10 @@
 
 Compress your videos easily.
 
+# DISCLAIMER
+
+**This project is still a work in progress, expect bugs and unfinished features.**
+
 # What is this?
 
 **ZipMyVid** is a video compression web tool to make sending videos to your friends, inspired by [8mb.video](https://8mb.video).
