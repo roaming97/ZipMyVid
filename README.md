@@ -4,9 +4,7 @@
 
 Compress your videos easily.
 
-# DISCLAIMER
-
-**This project is still a work in progress, expect bugs and unfinished features.**
+This project still has some limitations due to the usage that FFmpeg asks for the web in order to run properly (and on a single thread), there's ongoing work to better handle this.
 
 # What is this?
 
