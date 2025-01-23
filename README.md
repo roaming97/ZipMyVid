@@ -8,6 +8,6 @@ This project still has some limitations due to the usage that FFmpeg asks for th
 
 # What is this?
 
-**ZipMyVid** is a video compression web tool to make sending videos to your friends, inspired by [8mb.video](https://8mb.video).
+**ZipMyVid** is a video compression web tool to ease the process of sending videos through channels with file size limitations, inspired by [8mb.video](https://8mb.video).
 
 ![ZipMyVid screenshot](./static/screenshot.png)
